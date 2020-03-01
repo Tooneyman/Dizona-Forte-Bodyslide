@@ -1,0 +1,155 @@
+<SliderCategories>
+	<Category name="Dizona Body Sliders" defaultHidden="false">
+        <Slider name="Dizona to BMEHigh" />
+        <Slider name="Dizona BodyBuilder" displayname="Body Builder" />
+		<Slider name="Dizona to SAMHigh" displayname="SAM" />
+		<Slider name="Dizona to SAMUAL" displayname="SAMUAL" />
+		<Slider name="Dizona to SAMSON" displayname="SAMSON" />
+		<Slider name="Dizona ForteHigh" displayname="Dizona High" />
+	</Category>
+	<Category name="Dizona Butt" defaultHidden="false">
+		<Slider name="Dizona Apple Cheeks" displayname="Apple Cheeks" />
+		<Slider name="Dizona Tight Cheeks" displayname="Tight Cheeks" />
+		<Slider name="Dizona Butt Crack" displayname="Butt Crack" />
+		<Slider name="Dizona Fat Ass" displayname="Fat Ass" />
+		<Slider name="Dizona Push Butt" displayname="Push Butt" />
+		<Slider name="Dizona Small Butt" displayname="Small Butt" />
+		<Slider name="Dizona Round Cheeks" displayname="Round Cheeks" />
+		<Slider name="Dizona Butt Up" displayname="Butt Up" />
+		<Slider name="Dizona Butt Down" displayname="Butt Down" />
+		<Slider name="Dizona Spread Cheeks" displayname="Spread Cheeks" />
+	</Category>
+	<Category name="Dizona Belly" defaultHidden="false">
+		<Slider name="Dizona Six Pack" displayname="Six Pack" />
+		<Slider name="Dizona Stomach Lining" displayname="Stomach Lining" />
+		<Slider name="Dizona Belly Pup" displayname="Belly Pup" />
+		<Slider name="Dizona Belly Low" displayname="Belly Low" />
+		<Slider name="Dizona Big Belly" displayname="Big Belly" />
+		<Slider name="Dizona Beer Gut" displayname="Beer Gut" />
+		<Slider name="Dizona Begger Belly" displayname="Begger Belly" />
+		<Slider name="Dizona Belly Button Innie" displayname="Belly Button In" />
+		<Slider name="Dizona Belly Button Out" displayname="Belly Button Out" />
+	</Category>
+	<Category name="Dizona Shoulders and Arms" defaultHidden="false">
+		<Slider name="Wrist Seam" displayname="Wrists" />
+		<Slider name="Dizona Shoulders High" displayname="Shoulders High" />
+		<Slider name="Dizona Shoulders Intrude" displayname="Shoulders Intrude" />
+		<Slider name="Dizona Shoulder Blades" displayname="Shoulder Blades" />
+		<Slider name="Dizona Shoulder Blades In" displayname="Shoulder Blades In" />
+		<Slider name="Dizona Shoulders Up" displayname="Shoulders Up" />
+		<Slider name="Dizona Shoulders Down" displayname="Shoulders Down" />
+		<Slider name="Dizona Forearms Slim" displayname="Forearms Slim" />
+		<Slider name="Dizona Forearms Thick" displayname="Forearms Thick" />
+		<Slider name="Dizona Arms Extend" displayname="Arms Extend" />
+		<Slider name="Dizona Front Biceps Macho" displayname="Front Biceps Macho" />
+		<Slider name="Dizona Front Biceps Thin" displayname="Front Biceps Thin" />
+		<Slider name="Dizona Triceps Bulk" displayname="Triceps Bulk" />
+		<Slider name="Dizona Tricep Skinny" displayname="Tricep Skinny" />
+		
+	</Category>
+	<Category name="Dizona Torso and Neck" defaultHidden="false">
+		<Slider name="Neck Seam" displayname="Neck" />
+		<Slider name="Dizona Ribs In" displayname="Ribs In" />
+		<Slider name="Dizona Ribs Out" displayname="Ribs Out" />
+		<Slider name="Dizona Torso Expand" displayname="Torso Expand" />
+		<Slider name="Dizona Torso Contract" displayname="Torso Contract" />
+		<Slider name="Dizona Chest Out" displayname="Chest Out" />
+		<Slider name="Dizona Chest Cavity" displayname="Chest Cavity" />
+		<Slider name="Dizona Chest Up" displayname="Chest Up" />
+		<Slider name="Dizona Chest Down" displayname="Chest Down" />
+		<Slider name="Dizona Chest Together" displayname="Chest Together" />
+		<Slider name="Dizona Chest Apart" displayname="Chest Apart" />
+		<Slider name="Dizona Chest In" displayname="Chest In" />
+		<Slider name="Dizona Chest Lift" displayname="Chest Lift" />
+		<Slider name="Dizona Chest Sag" displayname="Chest Sag" />
+		<Slider name="Dizona Chest Pointy" displayname="Chest Pointy" />
+		<Slider name="Dizona Fat Chest" displayname="Fat Chest" />
+		<Slider name="Dizona Little Chest" displayname="Little Chest" />
+		<Slider name="Dizona Nipples Pointy" displayname="Nipples Pointy" />
+		<Slider name="Dizona Nipples Big" displayname="Nipples Big" />
+		<Slider name="Dizona Nipples Little" displayname="Nipples Little" />
+		<Slider name="Dizona Nipple Slim" displayname="Nipples Slim" />
+		<Slider name="Dizona Nipples Up" displayname="Nipples Up" />
+		<Slider name="Dizona Nipples Down" displayname="Nipples Down" />
+		<Slider name="Dizona Nipples Apart" displayname="Nipples Apart" />
+		<Slider name="Dizona Nipples Together" displayname="Nipples Together" />
+		<Slider name="Dizona Spin" displayname="Spin" />
+		<Slider name="Dizona Back Up" displayname="Back Up" />
+		<Slider name="Dizona Back Down" displayname="Back Down" />
+		<Slider name="Dizona Lower Back" displayname="Lower Back" />
+		<Slider name="Dizona Neck High" displayname="Neck High" />
+		<Slider name="Dizona Neck Low" displayname="Neck Low" />
+		<Slider name="Dizona Collar Bone" displayname="Collar Bone" />
+	</Category>
+	<Category name="Dizona Legs and Hips" defaultHidden="false">
+		<Slider name="Ankle Seam" displayname="Ankles" />
+		<Slider name="Dizona Thick Front Legs" displayname="Thick Front Legs" />
+		<Slider name="Dizona Thin Front Legs" displayname="Thin Front Legs" />
+		<Slider name="Dizona Thick Legs" displayname="Thick Legs" />
+		<Slider name="Dizona Thin Legs" displayname="Thin Legs" />
+		<Slider name="Dizona Big Knees" displayname="Big Knees" />
+		<Slider name="Dizona Small Knees" displayname="Small Knees" />
+		<Slider name="Dizona Big Calves" displayname="Big Calves" />
+		<Slider name="Dizona Small Calves" displayname="Small Calves" />
+		<Slider name="Dizona Knee Height" displayname="Knee Height" />
+		<Slider name="Dizona Love Handles" displayname="Love Handles" />
+		<Slider name="Dizona Skinny Hip Bones" displayname="Skinny Hip Bones" />
+		<Slider name="Dizona Thick Waist" displayname="Thick Waist" />
+		<Slider name="Dizona Thin Waist" displayname="Thin Waist" />
+	</Category>
+	<Category name="Dizona Genitals" defaultHidden="false">
+		<Slider name="Penis Back Shaft Thick" displayname="Thick Back Shaft" />
+		<Slider name="Penis Back Shaft Thin" displayname="Thin Back Shaft" />
+		<Slider name="Penis Extend" displayname="Extend" />
+		<Slider name="Penis Shaft Big" displayname="Big Shaft" />
+		<Slider name="Penis Shaft Front Slim" displayname="Front Slim Shaft" />
+		<Slider name="Penis Shaft Front Thick" displayname="Front Thick Shaft" />
+		<Slider name="Penis Shaft Small" displayname="Small Shaft" />
+		<Slider name="Penis Shrink" displayname="Shrinkage" />
+		<Slider name="Penis Tip Crunch" displayname="Tip Crunch" />
+		<Slider name="Penis Tip Expand" displayname="Tip Expand" />
+		<Slider name="Penis Tip Long" displayname="Tip Long" />
+		<Slider name="Penis Tip Small" displayname="Tip Small" />
+		<Slider name="Penis Tip Thick" displayname="Tip Thick" />
+		<Slider name="Penis Tip Thin" displayname="Tip Thin" />
+		<Slider name="Scrotum Left Testical Extend" displayname="Left Testy Expand" />
+		<Slider name="Scrotum Big" displayname="Big Sack" />
+		<Slider name="Scrotum Contract" displayname="Small Sack" />
+		<Slider name="Scrotum Left Testical Hang" displayname="Left Testy Hang" />
+		<Slider name="Scrotum Left Testical Shrink" displayname="Left Testy Shrink" />
+		<Slider name="Scrotum Right Testical Extend" displayname="Right Testy Expand" />
+		<Slider name="Scrotum Right Testical Hang" displayname="Right Testy Hang" />
+		<Slider name="Scrotum Right Testical Shrink" displayname="Right Testy Shrink" />
+		<Slider name="Scrotum Small" displayname=" Testy Shrinkage" />
+		<Slider name="Scrotum Squeeze" displayname="Testy Squeeze" />
+		<Slider name="Scrotum Stretch" displayname="Testy Stretch" />	
+	</Category>
+	<Category name="Dizona Nude Genitals" defaultHidden="false">
+		<Slider name="Penis Left Testical" displayname="Left Testy" />
+		<Slider name="Penis Right Testical" displayname="Right Testy" />
+		<Slider name="Penis Hanging Left Testical" displayname="Left Hanging Testy" />
+		<Slider name="Penis Hanging Right Testical" displayname="Right Hanging Testy" />
+		<Slider name="Penis Hanging Testicals" displayname="Hanging Testy" />
+		<Slider name="Penis Scrotum Big" displayname="Big Testy" />
+		<Slider name="Penis Smaller Left Testical" displayname="Small Left Testy" />
+		<Slider name="Penis Smaller Right Testical" displayname="Small Right Testy" />
+		<Slider name="Penis Scrotum Small" displayname="Small Testy" />
+		<Slider name="Penis Testical Contract" displayname="Testy Contract" />
+		<Slider name="Penis Curved Left" displayname="Left Curve" />
+		<Slider name="Penis Curved Right" displayname="Right Curve" />
+		<Slider name="Penis Extended" displayname="Extend" />
+		<Slider name="Penis Swollen Shaft" displayname="Swollen" />
+		<Slider name="Penis Shrinkage" displayname="Shrinkage" />
+		<Slider name="Penis Slim Tip Shaft" displayname="Shaft Slim Tip" />
+		<Slider name="Penis Thicker Tip Shaft" displayname="Shaft Thicker Tip" />
+		<Slider name="Penis Thicker Upper Shaft" displayname="Shaft Thicker Upper" />
+		<Slider name="Penis Thin Shaft" displayname="Shaft Thin" />
+		<Slider name="Penis Thinner Upper Shaft" displayname="Shaft Thin Upper" />
+		<Slider name="Penis Tip Expand" displayname="Expand Tip" />
+		<Slider name="Penis Tip Long" displayname="Long Tip" />
+		<Slider name="Penis Tip Small" displayname="Small Tip" />
+		<Slider name="Penis Tip Swollen" displayname="Swollen Tip" />
+		<Slider name="Penis Tiip Thin" displayname="Thin Tip" />
+	</Category>
+	
+</SliderCategories>
