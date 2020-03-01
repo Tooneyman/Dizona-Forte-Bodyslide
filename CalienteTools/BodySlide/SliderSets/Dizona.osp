@@ -389,7 +389,7 @@
             <Data name="DF LimbsDizona ForteHigh" target="DF Limbs" local="true">Dizona Erect.osd\DF LimbsDizona ForteHigh</Data>
             <Data name="DF PenisDizona ForteHigh" target="DF Penis" local="true">Dizona Erect.osd\DF PenisDizona ForteHigh</Data>
         </Slider>
-        <Slider name="Neck Seam" invert="false" small="0" big="100" hidden="true">
+        <Slider name="Neck Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF BodyNeck Seam" target="DF Body" local="true">Dizona Erect.osd\DF BodyNeck Seam</Data>
         </Slider>
         <Slider name="Ankle Seam" invert="false" small="0" big="0" hidden="true">
@@ -786,7 +786,7 @@
             <Data name="DF LimbsDizona ForteHigh" target="DF Limbs" local="true">Dizona Nude.osd\DF LimbsDizona ForteHigh</Data>
             <Data name="DF PenisDizona ForteHigh" target="DF Penis" local="true">Dizona Nude.osd\DF PenisDizona ForteHigh</Data>
         </Slider>
-        <Slider name="Neck Seam" invert="false" small="0" big="100" hidden="true">
+        <Slider name="Neck Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF BodyNeck Seam" target="DF Body" local="true">Dizona Nude.osd\DF BodyNeck Seam</Data>
         </Slider>
         <Slider name="Ankle Seam" invert="false" small="0" big="0" hidden="true">
@@ -1175,7 +1175,7 @@
         <Slider name="Neck Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF BodyNeck Seam" target="DF Body" local="true">Dizona Underwear.osd\DF BodyNeck Seam</Data>
         </Slider>
-        <Slider name="Ankle Seam" invert="false" small="0" big="100" hidden="true">
+        <Slider name="Ankle Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF LimbsAnkle Seam" target="DF Limbs" local="true">Dizona Underwear.osd\DF LimbsAnkle Seam</Data>
         </Slider>
         <Slider name="Wrist Seam" invert="false" small="0" big="0" hidden="true">
@@ -1569,10 +1569,10 @@
             <Data name="ShortsDizona ForteHigh" target="Shorts" local="true">Dizona Shorts.osd\ShortsDizona ForteHigh</Data>
             <Data name="BeltDizona ForteHigh" target="Belt" local="true">Dizona Shorts.osd\BeltDizona ForteHigh</Data>
         </Slider>
-        <Slider name="Neck Seam" invert="false" small="0" big="100" hidden="true">
+        <Slider name="Neck Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF BodyNeck Seam" target="DF Body" local="true">Dizona Shorts.osd\DF BodyNeck Seam</Data>
         </Slider>
-        <Slider name="Ankle Seam" invert="false" small="0" big="100" hidden="true">
+        <Slider name="Ankle Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF LimbsAnkle Seam" target="DF Limbs" local="true">Dizona Shorts.osd\DF LimbsAnkle Seam</Data>
         </Slider>
         <Slider name="Wrist Seam" invert="false" small="0" big="0" hidden="true">
@@ -2362,10 +2362,10 @@
             <Data name="DF LimbsDizona ForteHigh" target="DF Limbs" local="true">Dizona Nude HDT.osd\DF LimbsDizona ForteHigh</Data>
             <Data name="DF PenisDizona ForteHigh" target="DF Penis" local="true">Dizona Nude HDT.osd\DF PenisDizona ForteHigh</Data>
         </Slider>
-        <Slider name="Neck Seam" invert="false" small="0" big="100" hidden="true">
+        <Slider name="Neck Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF BodyNeck Seam" target="DF Body" local="true">Dizona Nude HDT.osd\DF BodyNeck Seam</Data>
         </Slider>
-        <Slider name="Ankle Seam" invert="false" small="0" big="100" hidden="true">
+        <Slider name="Ankle Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF LimbsAnkle Seam" target="DF Limbs" local="true">Dizona Nude HDT.osd\DF LimbsAnkle Seam</Data>
         </Slider>
         <Slider name="Wrist Seam" invert="false" small="0" big="0" hidden="true">
@@ -2759,10 +2759,10 @@
             <Data name="ShortsDizona ForteHigh" target="Shorts" local="true">Dizona Shorts HDT.osd\ShortsDizona ForteHigh</Data>
             <Data name="BeltDizona ForteHigh" target="Belt" local="true">Dizona Shorts HDT.osd\BeltDizona ForteHigh</Data>
         </Slider>
-        <Slider name="Neck Seam" invert="false" small="0" big="100" hidden="true">
+        <Slider name="Neck Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF BodyNeck Seam" target="DF Body" local="true">Dizona Shorts HDT.osd\DF BodyNeck Seam</Data>
         </Slider>
-        <Slider name="Ankle Seam" invert="false" small="0" big="100" hidden="true">
+        <Slider name="Ankle Seam" invert="false" small="0" big="0" hidden="true">
             <Data name="DF LimbsAnkle Seam" target="DF Limbs" local="true">Dizona Shorts HDT.osd\DF LimbsAnkle Seam</Data>
         </Slider>
         <Slider name="Wrist Seam" invert="false" small="0" big="0" hidden="true">
