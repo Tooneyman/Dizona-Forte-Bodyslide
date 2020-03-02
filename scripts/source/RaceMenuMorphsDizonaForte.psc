@@ -109,7 +109,7 @@ Function InitMorphNames()
 EndFunction
 
 Event OnCategoryRequest()
-	AddCategory(CATEGORY_KEY, "Dizona MORPHS", -9423)
+	AddCategory(CATEGORY_KEY, "Dizona MORPHS", -943)
 	InitMorphNames()
 EndEvent
 
