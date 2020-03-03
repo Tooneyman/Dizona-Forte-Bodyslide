@@ -86,7 +86,7 @@ Function InitMorphNames()
 	morphs[59] = "Dizona Nipples Down"
 	morphs[60] = "Dizona Nipples Apart"
 	morphs[61] = "Dizona Nipples Together"
-	morphs[62] = "Dizona Spine"
+	morphs[62] = "Dizona Spin"
 	morphs[63] = "Dizona Back Up"
 	morphs[64] = "Dizona Back Down"
 	morphs[65] = "Dizona Lower Back"
