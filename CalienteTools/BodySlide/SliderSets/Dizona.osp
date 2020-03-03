@@ -102,9 +102,9 @@
             <Data name="DF BodyDizona Shoulder Blades In" target="DF Body" local="true">Dizona Erect.osd\DF BodyDizona Shoulder Blades In</Data>
             <Data name="DF LimbsDizona Shoulder Blades In" target="DF Limbs" local="true">Dizona Erect.osd\DF LimbsDizona Shoulder Blades In</Data>
         </Slider>
-        <Slider name="Dizona Spin" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona Spin" target="DF Body" local="true">Dizona Erect.osd\DF BodyDizona Spin</Data>
-            <Data name="DF LimbsDizona Spin" target="DF Limbs" local="true">Dizona Erect.osd\DF LimbsDizona Spin</Data>
+        <Slider name="Dizona Spine" invert="false" small="0" big="0">
+            <Data name="DF BodyDizona Spine" target="DF Body" local="true">Dizona Erect.osd\DF BodyDizona Spine</Data>
+            <Data name="DF LimbsDizona Spine" target="DF Limbs" local="true">Dizona Erect.osd\DF LimbsDizona Spine</Data>
         </Slider>
         <Slider name="Dizona Back Up" invert="false" small="0" big="0">
             <Data name="DF BodyDizona Back Up" target="DF Body" local="true">Dizona Erect.osd\DF BodyDizona Back Up</Data>
@@ -499,9 +499,9 @@
             <Data name="DF BodyDizona Shoulder Blades In" target="DF Body" local="true">Dizona Nude.osd\DF BodyDizona Shoulder Blades In</Data>
             <Data name="DF LimbsDizona Shoulder Blades In" target="DF Limbs" local="true">Dizona Nude.osd\DF LimbsDizona Shoulder Blades In</Data>
         </Slider>
-        <Slider name="Dizona Spin" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona Spin" target="DF Body" local="true">Dizona Nude.osd\DF BodyDizona Spin</Data>
-            <Data name="DF LimbsDizona Spin" target="DF Limbs" local="true">Dizona Nude.osd\DF LimbsDizona Spin</Data>
+        <Slider name="Dizona Spine" invert="false" small="0" big="0">
+            <Data name="DF BodyDizona Spine" target="DF Body" local="true">Dizona Nude.osd\DF BodyDizona Spine</Data>
+            <Data name="DF LimbsDizona Spine" target="DF Limbs" local="true">Dizona Nude.osd\DF LimbsDizona Spine</Data>
         </Slider>
         <Slider name="Dizona Back Up" invert="false" small="0" big="0">
             <Data name="DF BodyDizona Back Up" target="DF Body" local="true">Dizona Nude.osd\DF BodyDizona Back Up</Data>
@@ -796,7 +796,7 @@
             <Data name="DF LimbsWrist Seam" target="DF Limbs" local="true">Dizona Nude.osd\DF LimbsWrist Seam</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="DIzona Feet">
+    <SliderSet name="Dizona Feet">
         <DataFolder>Dizona</DataFolder>
         <SourceFile>Dizona Feet.nif</SourceFile>
         <OutputPath>meshes\actors\character\character assets</OutputPath>
@@ -920,10 +920,10 @@
             <Data name="DF BodyDizona Shoulder Blades In" target="DF Body" local="true">Dizona Underwear.osd\DF BodyDizona Shoulder Blades In</Data>
             <Data name="DF LimbsDizona Shoulder Blades In" target="DF Limbs" local="true">Dizona Underwear.osd\DF LimbsDizona Shoulder Blades In</Data>
         </Slider>
-        <Slider name="Dizona Spin" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona Spin" target="DF Body" local="true">Dizona Underwear.osd\DF BodyDizona Spin</Data>
-            <Data name="DF LimbsDizona Spin" target="DF Limbs" local="true">Dizona Underwear.osd\DF LimbsDizona Spin</Data>
-            <Data name="UnderwearDizona Spin" target="Underwear" local="true">Dizona Underwear.osd\UnderwearDizona Spin</Data>
+        <Slider name="Dizona Spine" invert="false" small="0" big="0">
+            <Data name="DF BodyDizona Spine" target="DF Body" local="true">Dizona Underwear.osd\DF BodyDizona Spine</Data>
+            <Data name="DF LimbsDizona Spine" target="DF Limbs" local="true">Dizona Underwear.osd\DF LimbsDizona Spine</Data>
+            <Data name="UnderwearDizona Spine" target="Underwear" local="true">Dizona Underwear.osd\UnderwearDizona Spine</Data>
         </Slider>
         <Slider name="Dizona Back Up" invert="false" small="0" big="0">
             <Data name="DF BodyDizona Back Up" target="DF Body" local="true">Dizona Underwear.osd\DF BodyDizona Back Up</Data>
@@ -1289,9 +1289,9 @@
             <Data name="DF BodyDizona Shoulder Blades In" target="DF Body" local="true">Dizona Shorts.osd\DF BodyDizona Shoulder Blades In</Data>
             <Data name="DF LimbsDizona Shoulder Blades In" target="DF Limbs" local="true">Dizona Shorts.osd\DF LimbsDizona Shoulder Blades In</Data>
         </Slider>
-        <Slider name="Dizona Spin" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona Spin" target="DF Body" local="true">Dizona Shorts.osd\DF BodyDizona Spin</Data>
-            <Data name="DF LimbsDizona Spin" target="DF Limbs" local="true">Dizona Shorts.osd\DF LimbsDizona Spin</Data>
+        <Slider name="Dizona Spine" invert="false" small="0" big="0">
+            <Data name="DF BodyDizona Spine" target="DF Body" local="true">Dizona Shorts.osd\DF BodyDizona Spine</Data>
+            <Data name="DF LimbsDizona Spine" target="DF Limbs" local="true">Dizona Shorts.osd\DF LimbsDizona Spine</Data>
         </Slider>
         <Slider name="Dizona Back Up" invert="false" small="0" big="0">
             <Data name="DF BodyDizona Back Up" target="DF Body" local="true">Dizona Shorts.osd\DF BodyDizona Back Up</Data>
@@ -1686,9 +1686,9 @@
             <Data name="DF BodyDizona Shoulder Blades In" target="DF Body" local="true">Dizona Vanilla.osd\DF BodyDizona Shoulder Blades In</Data>
             <Data name="DF LimbsDizona Shoulder Blades In" target="DF Limbs" local="true">Dizona Vanilla.osd\DF LimbsDizona Shoulder Blades In</Data>
         </Slider>
-        <Slider name="Dizona Spin" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona Spin" target="DF Body" local="true">Dizona Vanilla.osd\DF BodyDizona Spin</Data>
-            <Data name="DF LimbsDizona Spin" target="DF Limbs" local="true">Dizona Vanilla.osd\DF LimbsDizona Spin</Data>
+        <Slider name="Dizona Spine" invert="false" small="0" big="0">
+            <Data name="DF BodyDizona Spine" target="DF Body" local="true">Dizona Vanilla.osd\DF BodyDizona Spine</Data>
+            <Data name="DF LimbsDizona Spine" target="DF Limbs" local="true">Dizona Vanilla.osd\DF LimbsDizona Spine</Data>
         </Slider>
         <Slider name="Dizona Back Up" invert="false" small="0" big="0">
             <Data name="DF BodyDizona Back Up" target="DF Body" local="true">Dizona Vanilla.osd\DF BodyDizona Back Up</Data>
@@ -2075,9 +2075,9 @@
             <Data name="DF BodyDizona Shoulder Blades In" target="DF Body" local="true">Dizona Nude HDT.osd\DF BodyDizona Shoulder Blades In</Data>
             <Data name="DF LimbsDizona Shoulder Blades In" target="DF Limbs" local="true">Dizona Nude HDT.osd\DF LimbsDizona Shoulder Blades In</Data>
         </Slider>
-        <Slider name="Dizona Spin" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona Spin" target="DF Body" local="true">Dizona Nude HDT.osd\DF BodyDizona Spin</Data>
-            <Data name="DF LimbsDizona Spin" target="DF Limbs" local="true">Dizona Nude HDT.osd\DF LimbsDizona Spin</Data>
+        <Slider name="Dizona Spine" invert="false" small="0" big="0">
+            <Data name="DF BodyDizona Spine" target="DF Body" local="true">Dizona Nude HDT.osd\DF BodyDizona Spine</Data>
+            <Data name="DF LimbsDizona Spine" target="DF Limbs" local="true">Dizona Nude HDT.osd\DF LimbsDizona Spine</Data>
         </Slider>
         <Slider name="Dizona Back Up" invert="false" small="0" big="0">
             <Data name="DF BodyDizona Back Up" target="DF Body" local="true">Dizona Nude HDT.osd\DF BodyDizona Back Up</Data>
@@ -2479,9 +2479,9 @@
             <Data name="DF BodyDizona Shoulder Blades In" target="DF Body" local="true">Dizona Shorts HDT.osd\DF BodyDizona Shoulder Blades In</Data>
             <Data name="DF LimbsDizona Shoulder Blades In" target="DF Limbs" local="true">Dizona Shorts HDT.osd\DF LimbsDizona Shoulder Blades In</Data>
         </Slider>
-        <Slider name="Dizona Spin" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona Spin" target="DF Body" local="true">Dizona Shorts HDT.osd\DF BodyDizona Spin</Data>
-            <Data name="DF LimbsDizona Spin" target="DF Limbs" local="true">Dizona Shorts HDT.osd\DF LimbsDizona Spin</Data>
+        <Slider name="Dizona Spine" invert="false" small="0" big="0">
+            <Data name="DF BodyDizona Spine" target="DF Body" local="true">Dizona Shorts HDT.osd\DF BodyDizona Spine</Data>
+            <Data name="DF LimbsDizona Spine" target="DF Limbs" local="true">Dizona Shorts HDT.osd\DF LimbsDizona Spine</Data>
         </Slider>
         <Slider name="Dizona Back Up" invert="false" small="0" big="0">
             <Data name="DF BodyDizona Back Up" target="DF Body" local="true">Dizona Shorts HDT.osd\DF BodyDizona Back Up</Data>
@@ -2873,10 +2873,10 @@
             <Data name="DF BodyDizona Shoulder Blades In" target="DF Body" local="true">Dizona Underwear HDT.osd\DF BodyDizona Shoulder Blades In</Data>
             <Data name="DF LimbsDizona Shoulder Blades In" target="DF Limbs" local="true">Dizona Underwear HDT.osd\DF LimbsDizona Shoulder Blades In</Data>
         </Slider>
-        <Slider name="Dizona Spin" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona Spin" target="DF Body" local="true">Dizona Underwear HDT.osd\DF BodyDizona Spin</Data>
-            <Data name="DF LimbsDizona Spin" target="DF Limbs" local="true">Dizona Underwear HDT.osd\DF LimbsDizona Spin</Data>
-            <Data name="UnderwearDizona Spin" target="Underwear" local="true">Dizona Underwear HDT.osd\UnderwearDizona Spin</Data>
+        <Slider name="Dizona Spine" invert="false" small="0" big="0">
+            <Data name="DF BodyDizona Spine" target="DF Body" local="true">Dizona Underwear HDT.osd\DF BodyDizona Spine</Data>
+            <Data name="DF LimbsDizona Spine" target="DF Limbs" local="true">Dizona Underwear HDT.osd\DF LimbsDizona Spine</Data>
+            <Data name="UnderwearDizona Spine" target="Underwear" local="true">Dizona Underwear HDT.osd\UnderwearDizona Spine</Data>
         </Slider>
         <Slider name="Dizona Back Up" invert="false" small="0" big="0">
             <Data name="DF BodyDizona Back Up" target="DF Body" local="true">Dizona Underwear HDT.osd\DF BodyDizona Back Up</Data>
@@ -3242,9 +3242,9 @@
             <Data name="DF BodyDizona Shoulder Blades In" target="DF Body" local="true">Dizona Vanilla HDT.osd\DF BodyDizona Shoulder Blades In</Data>
             <Data name="DF LimbsDizona Shoulder Blades In" target="DF Limbs" local="true">Dizona Vanilla HDT.osd\DF LimbsDizona Shoulder Blades In</Data>
         </Slider>
-        <Slider name="Dizona Spin" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona Spin" target="DF Body" local="true">Dizona Vanilla HDT.osd\DF BodyDizona Spin</Data>
-            <Data name="DF LimbsDizona Spin" target="DF Limbs" local="true">Dizona Vanilla HDT.osd\DF LimbsDizona Spin</Data>
+        <Slider name="Dizona Spine" invert="false" small="0" big="0">
+            <Data name="DF BodyDizona Spine" target="DF Body" local="true">Dizona Vanilla HDT.osd\DF BodyDizona Spine</Data>
+            <Data name="DF LimbsDizona Spine" target="DF Limbs" local="true">Dizona Vanilla HDT.osd\DF LimbsDizona Spine</Data>
         </Slider>
         <Slider name="Dizona Back Up" invert="false" small="0" big="0">
             <Data name="DF BodyDizona Back Up" target="DF Body" local="true">Dizona Vanilla HDT.osd\DF BodyDizona Back Up</Data>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+	<Preset name="- Zeroed Sliders -" set="Dizona Nude">
+        <Group name="Dizona"/>
+    </Preset>
+    <Preset name="Dizona" set="Dizona Nude">
+        <Group name="Dizona"/>
+        <SetSlider name="Dizona ForteHigh" size="big" value="100"/>
+    </Preset>
+    <Preset name="Bodybuilder" set="Dizona Nude">
+        <Group name="Dizona"/>
+        <SetSlider name="Dizona BodyBuilder" size="big" value="100"/>
+        <SetSlider name="Dizona ForteHigh" size="small" value="100"/>
+    </Preset>
+    <Preset name="SAM" set="Dizona Nude">
+        <Group name="Dizona"/>
+        <SetSlider name="Dizona to SAMHigh" size="big" value="100"/>
+        <SetSlider name="Dizona to SAMHigh" size="small" value="50"/>
+    </Preset>
+</SliderPresets>

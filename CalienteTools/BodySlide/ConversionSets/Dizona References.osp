@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vanilla High to Dizona - Body">
+        <DataFolder>References</DataFolder>
+        <SourceFile>Vanilla High to Dizona.nif</SourceFile>
+        <OutputPath>meshes\Temp</OutputPath>
+        <OutputFile GenWeights="true">Vanilla High to Dizona</OutputFile>
+        <Shape target="DF Body" DataFolder="Dizona">DF Body</Shape>
+        <Slider name="Convert: Vanilla to Dizona" invert="false" small="0" big="0">
+            <Data name="DF BodyConvert: Vanilla to Dizona" target="DF Body" local="true">Vanilla High to Dizona.osd\DF BodyConvert: Vanilla to Dizona</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Vanilla High to Dizona - Limbs">
+        <DataFolder>References</DataFolder>
+        <SourceFile>Vanilla High to Dizona - Limbs.nif</SourceFile>
+        <OutputPath>meshes\temp</OutputPath>
+        <OutputFile GenWeights="true">Vanilla High to Dizona - Limbs</OutputFile>
+        <Shape target="DF Limbs">DF Limbs</Shape>
+        <Slider name="Convert: Vanilla to Dizona - Limbs" invert="false" small="0" big="0">
+            <Data name="DF LimbsConvert: Vanilla to Dizona - Limbs" target="DF Limbs" local="true">Vanilla High to Dizona - Limbs.osd\DF LimbsConvert: Vanilla to Dizona - Limbs</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="SAM to Dizona - Body">
+        <DataFolder>References</DataFolder>
+        <SourceFile>SAM to Dizona - Body.nif</SourceFile>
+        <OutputPath>meshes\temp</OutputPath>
+        <OutputFile GenWeights="true">SAM to Dizona - Body</OutputFile>
+        <Shape target="DF Body" DataFolder="Dizona">DF Body</Shape>
+        <Slider name="Convert: SAM to Dizona" invert="false" small="0" big="0">
+            <Data name="DF BodyConvert: SAM to Dizona" target="DF Body" local="true">SAM to Dizona - Body.osd\DF BodyConvert: SAM to Dizona</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="SAM to Dizona - Limbs">
+        <DataFolder>References</DataFolder>
+        <SourceFile>SAM to Dizona - Limbs.nif</SourceFile>
+        <OutputPath>meshes\actors\character\character assets</OutputPath>
+        <OutputFile GenWeights="true">SAM to Dizona - Limbs</OutputFile>
+        <Shape target="DF Limbs">DF Limbs</Shape>
+        <Slider name="Convert: SAM to Dizona - Limbs" invert="false" small="0" big="0">
+            <Data name="DF LimbsConvert: SAM to Dizona - Limbs" target="DF Limbs" local="true">SAM to Dizona - Limbs.osd\DF LimbsConvert: SAM to Dizona - Limbs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

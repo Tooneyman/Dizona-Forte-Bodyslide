@@ -1,0 +1,12 @@
+<!-- Reference templates are shortcuts to loading a slider set as a reference in Outfit Studio -->
+<RefTemplates>
+	<Template sourcefile="SliderSets\Dizona.osp" set="Dizona Nude" shape="DF Body">Dizona Body</Template>
+	<Template sourcefile="SliderSets\Dizona.osp" set="Dizona Nude" shape="DF Limbs">Dizona Limbs</Template>
+	<Template sourcefile="SliderSets\Dizona.osp" set="DIzona Feet" shape="Feet">Dizona Feet</Template>
+	<Template sourcefile="SliderSets\Dizona.osp" set="Dizona Hands" shape="Hands">Dizona Hands</Template>
+	<Template sourcefile="SliderSets\Dizona.osp" set="Dizona Hands Beasts" shape="Hands">Dizona Hands Beasts</Template>
+	<Template sourcefile="ConversionSets\Dizona References.osp" set="Vanilla High to Dizona - Body" shape="DF Body">Convert: Vanilla High to Dizona - Body</Template>
+	<Template sourcefile="ConversionSets\Dizona References.osp" set="Vanilla High to Dizona - Limbs" shape="DF Limbs">Convert: Vanilla High to Dizona - Limbs</Template>
+	<Template sourcefile="ConversionSets\Dizona References.osp" set="SAM to Dizona - Body" shape="DF Body">Convert: SAM to Dizona - Body</Template>
+	<Template sourcefile="ConversionSets\Dizona References.osp" set="SAM to Dizona - Limbs" shape="DF Limbs">Convert: SAM to Dizona - Limbs</Template>
+</RefTemplates>
