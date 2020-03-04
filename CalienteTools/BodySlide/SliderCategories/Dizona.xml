@@ -1,6 +1,5 @@
 <SliderCategories>
 	<Category name="Dizona Body Sliders" defaultHidden="false">
-        <Slider name="Dizona to BMEHigh" />
         <Slider name="Dizona BodyBuilder" displayname="Body Builder" />
 		<Slider name="Dizona to SAMHigh" displayname="SAM" />
 		<Slider name="Dizona to SAMUAL" displayname="SAMUAL" />

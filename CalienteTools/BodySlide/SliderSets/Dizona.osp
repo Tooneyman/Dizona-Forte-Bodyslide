@@ -10,11 +10,6 @@
         <Shape target="DF Penis">DF Penis</Shape>
         <Shape target="SchlongCollision">SchlongCollision</Shape>
         <Shape target="VesicleCollision">VesicleCollision</Shape>
-        <Slider name="Dizona to BMEHigh" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona to BMEHigh" target="DF Body" local="true">Dizona Erect.osd\DF BodyDizona to BMEHigh</Data>
-            <Data name="DF LimbsDizona to BMEHigh" target="DF Limbs" local="true">Dizona Erect.osd\DF LimbsDizona to BMEHigh</Data>
-            <Data name="DF PenisDizona to BMEHigh" target="DF Penis" local="true">Dizona Erect.osd\DF PenisDizona to BMEHigh</Data>
-        </Slider>
         <Slider name="Dizona BodyBuilder" invert="false" small="0" big="0">
             <Data name="DF BodyDizona BodyBuilder" target="DF Body" local="true">Dizona Erect.osd\DF BodyDizona BodyBuilder</Data>
             <Data name="DF LimbsDizona BodyBuilder" target="DF Limbs" local="true">Dizona Erect.osd\DF LimbsDizona BodyBuilder</Data>
@@ -407,11 +402,6 @@
         <Shape target="DF Body" DataFolder="Dizona">DF Body</Shape>
         <Shape target="DF Limbs">DF Limbs</Shape>
         <Shape target="DF Penis">DF Penis</Shape>
-        <Slider name="Dizona to BMEHigh" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona to BMEHigh" target="DF Body" local="true">Dizona Nude.osd\DF BodyDizona to BMEHigh</Data>
-            <Data name="DF LimbsDizona to BMEHigh" target="DF Limbs" local="true">Dizona Nude.osd\DF LimbsDizona to BMEHigh</Data>
-            <Data name="DF PenisDizona to BMEHigh" target="DF Penis" local="true">Dizona Nude.osd\DF PenisDizona to BMEHigh</Data>
-        </Slider>
         <Slider name="Dizona BodyBuilder" invert="false" small="0" big="0">
             <Data name="DF BodyDizona BodyBuilder" target="DF Body" local="true">Dizona Nude.osd\DF BodyDizona BodyBuilder</Data>
             <Data name="DF LimbsDizona BodyBuilder" target="DF Limbs" local="true">Dizona Nude.osd\DF LimbsDizona BodyBuilder</Data>
@@ -825,12 +815,6 @@
         <Shape target="DF Limbs">DF Limbs</Shape>
         <Shape target="Groin Cap">Groin Cap</Shape>
         <Shape target="Underwear">Underwear</Shape>
-        <Slider name="Dizona to BMEHigh" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona to BMEHigh" target="DF Body" local="true">Dizona Underwear.osd\DF BodyDizona to BMEHigh</Data>
-            <Data name="DF LimbsDizona to BMEHigh" target="DF Limbs" local="true">Dizona Underwear.osd\DF LimbsDizona to BMEHigh</Data>
-            <Data name="Groin CapDizona to BMEHigh" target="Groin Cap" local="true">Dizona Underwear.osd\Groin CapDizona to BMEHigh</Data>
-            <Data name="UnderwearDizona to BMEHigh" target="Underwear" local="true">Dizona Underwear.osd\UnderwearDizona to BMEHigh</Data>
-        </Slider>
         <Slider name="Dizona BodyBuilder" invert="false" small="0" big="0">
             <Data name="DF BodyDizona BodyBuilder" target="DF Body" local="true">Dizona Underwear.osd\DF BodyDizona BodyBuilder</Data>
             <Data name="DF LimbsDizona BodyBuilder" target="DF Limbs" local="true">Dizona Underwear.osd\DF LimbsDizona BodyBuilder</Data>
@@ -1192,13 +1176,6 @@
         <Shape target="DF Limbs">DF Limbs</Shape>
         <Shape target="Groin Cap">Groin Cap</Shape>
         <Shape target="Shorts">Shorts</Shape>
-        <Slider name="Dizona to BMEHigh" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona to BMEHigh" target="DF Body" local="true">Dizona Shorts.osd\DF BodyDizona to BMEHigh</Data>
-            <Data name="DF LimbsDizona to BMEHigh" target="DF Limbs" local="true">Dizona Shorts.osd\DF LimbsDizona to BMEHigh</Data>
-            <Data name="Groin CapDizona to BMEHigh" target="Groin Cap" local="true">Dizona Shorts.osd\Groin CapDizona to BMEHigh</Data>
-            <Data name="ShortsDizona to BMEHigh" target="Shorts" local="true">Dizona Shorts.osd\ShortsDizona to BMEHigh</Data>
-            <Data name="BeltDizona to BMEHigh" target="Belt" local="true">Dizona Shorts.osd\BeltDizona to BMEHigh</Data>
-        </Slider>
         <Slider name="Dizona BodyBuilder" invert="false" small="0" big="0">
             <Data name="DF BodyDizona BodyBuilder" target="DF Body" local="true">Dizona Shorts.osd\DF BodyDizona BodyBuilder</Data>
             <Data name="DF LimbsDizona BodyBuilder" target="DF Limbs" local="true">Dizona Shorts.osd\DF LimbsDizona BodyBuilder</Data>
@@ -1589,13 +1566,6 @@
         <Shape target="Groin Cap">Groin Cap</Shape>
         <Shape target="MaleUnderBottom">MaleUnderBottom</Shape>
         <Shape target="MaleUnderwear">MaleUnderwear</Shape>
-        <Slider name="Dizona to BMEHigh" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona to BMEHigh" target="DF Body" local="true">Dizona Vanilla.osd\DF BodyDizona to BMEHigh</Data>
-            <Data name="DF LimbsDizona to BMEHigh" target="DF Limbs" local="true">Dizona Vanilla.osd\DF LimbsDizona to BMEHigh</Data>
-            <Data name="Groin CapDizona to BMEHigh" target="Groin Cap" local="true">Dizona Vanilla.osd\Groin CapDizona to BMEHigh</Data>
-            <Data name="MaleUnderwearDizona to BMEHigh" target="MaleUnderwear" local="true">Dizona Vanilla.osd\MaleUnderwearDizona to BMEHigh</Data>
-            <Data name="MaleUnderBottomDizona to BMEHigh" target="MaleUnderBottom" local="true">Dizona Vanilla.osd\MaleUnderBottomDizona to BMEHigh</Data>
-        </Slider>
         <Slider name="Dizona BodyBuilder" invert="false" small="0" big="0">
             <Data name="DF BodyDizona BodyBuilder" target="DF Body" local="true">Dizona Vanilla.osd\DF BodyDizona BodyBuilder</Data>
             <Data name="DF LimbsDizona BodyBuilder" target="DF Limbs" local="true">Dizona Vanilla.osd\DF LimbsDizona BodyBuilder</Data>
@@ -1983,11 +1953,6 @@
         <Shape target="DF Body" DataFolder="Dizona">DF Body</Shape>
         <Shape target="DF Limbs">DF Limbs</Shape>
         <Shape target="DF Penis">DF Penis</Shape>
-        <Slider name="Dizona to BMEHigh" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona to BMEHigh" target="DF Body" local="true">Dizona Nude HDT.osd\DF BodyDizona to BMEHigh</Data>
-            <Data name="DF LimbsDizona to BMEHigh" target="DF Limbs" local="true">Dizona Nude HDT.osd\DF LimbsDizona to BMEHigh</Data>
-            <Data name="DF PenisDizona to BMEHigh" target="DF Penis" local="true">Dizona Nude HDT.osd\DF PenisDizona to BMEHigh</Data>
-        </Slider>
         <Slider name="Dizona BodyBuilder" invert="false" small="0" big="0">
             <Data name="DF BodyDizona BodyBuilder" target="DF Body" local="true">Dizona Nude HDT.osd\DF BodyDizona BodyBuilder</Data>
             <Data name="DF LimbsDizona BodyBuilder" target="DF Limbs" local="true">Dizona Nude HDT.osd\DF LimbsDizona BodyBuilder</Data>
@@ -2382,13 +2347,6 @@
         <Shape target="DF Limbs">DF Limbs</Shape>
         <Shape target="Groin Cap">Groin Cap</Shape>
         <Shape target="Shorts">Shorts</Shape>
-        <Slider name="Dizona to BMEHigh" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona to BMEHigh" target="DF Body" local="true">Dizona Shorts HDT.osd\DF BodyDizona to BMEHigh</Data>
-            <Data name="DF LimbsDizona to BMEHigh" target="DF Limbs" local="true">Dizona Shorts HDT.osd\DF LimbsDizona to BMEHigh</Data>
-            <Data name="Groin CapDizona to BMEHigh" target="Groin Cap" local="true">Dizona Shorts HDT.osd\Groin CapDizona to BMEHigh</Data>
-            <Data name="ShortsDizona to BMEHigh" target="Shorts" local="true">Dizona Shorts HDT.osd\ShortsDizona to BMEHigh</Data>
-            <Data name="BeltDizona to BMEHigh" target="Belt" local="true">Dizona Shorts HDT.osd\BeltDizona to BMEHigh</Data>
-        </Slider>
         <Slider name="Dizona BodyBuilder" invert="false" small="0" big="0">
             <Data name="DF BodyDizona BodyBuilder" target="DF Body" local="true">Dizona Shorts HDT.osd\DF BodyDizona BodyBuilder</Data>
             <Data name="DF LimbsDizona BodyBuilder" target="DF Limbs" local="true">Dizona Shorts HDT.osd\DF LimbsDizona BodyBuilder</Data>
@@ -2778,12 +2736,6 @@
         <Shape target="DF Limbs">DF Limbs</Shape>
         <Shape target="Groin Cap">Groin Cap</Shape>
         <Shape target="Underwear">Underwear</Shape>
-        <Slider name="Dizona to BMEHigh" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona to BMEHigh" target="DF Body" local="true">Dizona Underwear HDT.osd\DF BodyDizona to BMEHigh</Data>
-            <Data name="DF LimbsDizona to BMEHigh" target="DF Limbs" local="true">Dizona Underwear HDT.osd\DF LimbsDizona to BMEHigh</Data>
-            <Data name="Groin CapDizona to BMEHigh" target="Groin Cap" local="true">Dizona Underwear HDT.osd\Groin CapDizona to BMEHigh</Data>
-            <Data name="UnderwearDizona to BMEHigh" target="Underwear" local="true">Dizona Underwear HDT.osd\UnderwearDizona to BMEHigh</Data>
-        </Slider>
         <Slider name="Dizona BodyBuilder" invert="false" small="0" big="0">
             <Data name="DF BodyDizona BodyBuilder" target="DF Body" local="true">Dizona Underwear HDT.osd\DF BodyDizona BodyBuilder</Data>
             <Data name="DF LimbsDizona BodyBuilder" target="DF Limbs" local="true">Dizona Underwear HDT.osd\DF LimbsDizona BodyBuilder</Data>
@@ -3145,13 +3097,6 @@
         <Shape target="Groin Cap">Groin Cap</Shape>
         <Shape target="MaleUnderBottom">MaleUnderBottom</Shape>
         <Shape target="MaleUnderwear">MaleUnderwear</Shape>
-        <Slider name="Dizona to BMEHigh" invert="false" small="0" big="0">
-            <Data name="DF BodyDizona to BMEHigh" target="DF Body" local="true">Dizona Vanilla HDT.osd\DF BodyDizona to BMEHigh</Data>
-            <Data name="DF LimbsDizona to BMEHigh" target="DF Limbs" local="true">Dizona Vanilla HDT.osd\DF LimbsDizona to BMEHigh</Data>
-            <Data name="Groin CapDizona to BMEHigh" target="Groin Cap" local="true">Dizona Vanilla HDT.osd\Groin CapDizona to BMEHigh</Data>
-            <Data name="MaleUnderwearDizona to BMEHigh" target="MaleUnderwear" local="true">Dizona Vanilla HDT.osd\MaleUnderwearDizona to BMEHigh</Data>
-            <Data name="MaleUnderBottomDizona to BMEHigh" target="MaleUnderBottom" local="true">Dizona Vanilla HDT.osd\MaleUnderBottomDizona to BMEHigh</Data>
-        </Slider>
         <Slider name="Dizona BodyBuilder" invert="false" small="0" big="0">
             <Data name="DF BodyDizona BodyBuilder" target="DF Body" local="true">Dizona Vanilla HDT.osd\DF BodyDizona BodyBuilder</Data>
             <Data name="DF LimbsDizona BodyBuilder" target="DF Limbs" local="true">Dizona Vanilla HDT.osd\DF LimbsDizona BodyBuilder</Data>
